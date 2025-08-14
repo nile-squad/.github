@@ -1,9 +1,9 @@
 # 🚀 NILE SQUAD LABZ - #NSL
 
-We’re a digital-first startup delivering **software development services**, **dev tooling**, and **micro SaaS** solutions worldwide.
+We’re a digital-first startup delivering intelligent AI native but human first solutions worldwide.
 
 🔥 **We Are Building:**
-3M Business Suite
+Delta Business Platform
 
 🔧 **Our Favourite Tech Stack:**
 Next.js, Tailwind CSS, TypeScript, Drizzle, Bun, Hono, Node, Postgres, SQLite, Amber, Go, C, Rust, Kotlin, React Native, Tauri And Python.
