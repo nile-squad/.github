@@ -1,6 +1,6 @@
 # 🚀 NILE SQUAD LABZ - #NSL
 
-We’re a digital-first startup delivering intelligent AI native but human first solutions worldwide.
+We’re a digital-first startup building AI native, intuitive and human first solutions for small businesses worldwide.
 
 🔥 **We Are Building:**
 Delta Business Platform
